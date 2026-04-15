@@ -1,0 +1,20 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/f3df5431-45cd-4ba2-a572-9e01c64f23af/2a18b162-20d6-4757-97f7-f7ad58c4ca5b",
+  "projectIri": "ca83dee7-1632-4a8e-8d47-4411c5d11662",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://www.w3.org/2002/07/owl",
+    "label": {
+      "en": "owl"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-15T09:19:30.299Z",
+    "modificationDate": "2026-04-15T09:19:44.733Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
