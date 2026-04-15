@@ -6,7 +6,8 @@
   ],
   "userMetadata": {
     "label": {
-      "en": "tt"
+      "en": "tttttt",
+      "cs": "TTTEST"
     },
     "description": {
       "en": "This specification defines terms needed to describe application profiles,"
@@ -15,8 +16,8 @@
     "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
   },
   "metadata": {
-    "creationDate": "2026-04-15T09:19:28.308Z",
-    "modificationDate": "2026-04-15T09:20:07.391Z"
+    "creationDate": "2026-04-15T09:20:53.582Z",
+    "modificationDate": "2026-04-15T09:25:16.733Z"
   },
   "_version": 1,
   "_exportVersion": 2,
