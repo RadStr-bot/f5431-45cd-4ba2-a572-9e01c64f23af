@@ -6,7 +6,7 @@
   ],
   "userMetadata": {
     "label": {
-      "en": "Data Specification Vocabulary (DSV)"
+      "en": "tt"
     },
     "description": {
       "en": "This specification defines terms needed to describe application profiles,"
@@ -16,7 +16,7 @@
   },
   "metadata": {
     "creationDate": "2026-04-15T09:19:28.308Z",
-    "modificationDate": "2026-04-15T09:19:44.772Z"
+    "modificationDate": "2026-04-15T09:20:07.391Z"
   },
   "_version": 1,
   "_exportVersion": 2,
